@@ -71,7 +71,7 @@ Higher score indicates better clustering.
 
 ## 1. Feature Scaling
 
-![Feature Scaling](images/Feature_Scaling_data.png)
+![Feature Scaling](images/Feacture_Scaling_data.png
 
 ---
 
